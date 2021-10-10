@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "2038538305:AAFO4QqR7xm04xmniMp-4wJuOPoo0kH-fiY"
+    APP_ID = "6830698"
+    API_HASH = "53bef25f8b30a3bd076fc7812d9d7f81"
+    DATABASE_URL = "postgres://csbyqhvmonabhl:fb28efdd056843964a74c659f"
+    SUDO_USERS = "1860372475" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "783535998404-t6rchrusss47c14efv8kd4rqrnjhlagb.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/delta_cloud"
 
 
 class BotCommands:
